@@ -5,7 +5,7 @@
 🌱 Currently ex* for advanced UI design.  
 🌍 Transitioned from civil engineering to software development with a passion for creating efficient web applications.  
 🤝 Always looking to collaborate on open-source projects and innovative web applications.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lazher-jouili/).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelbasset1985/).
 
 ---
 
