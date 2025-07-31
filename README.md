@@ -56,9 +56,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazherjouili&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazherjouili&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazherjouili&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelbasset1985&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelbasset1985&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelbasset1985&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -70,7 +70,7 @@
 
 ## 🔗 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/lazher-jouili/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lazher%20Jouili-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;">
-  </a>
+  <a href="https://www.linkedin.com/in/abdelbasset-ghoul-303358292/">
+<!--     <img src="https://img.shields.io/badge/LinkedIn-Lazher%20Jouili-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;">
+  </a> -->
 </div>
