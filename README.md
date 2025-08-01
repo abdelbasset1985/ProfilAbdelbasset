@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 💻 **Developer** specializing in **Spring Boot** and **Angular**.  
-🌱 Currently ex* for advanced UI design.  
+🌱 Currently exploring advanced UI design.  
 🌍 Transitioned from civil engineering to software development with a passion for creating efficient web applications.  
 🤝 Always looking to collaborate on open-source projects and innovative web applications.  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelbasset1985/).
@@ -71,8 +71,8 @@
 ## 🔗 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelbasset-ghoul-303358292/">
-<!--     <img src="https://img.shields.io/badge/LinkedIn-Lazher%20Jouili-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;">
-  </a> -->
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelbasset%20Ghoul-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-![Snake Animation](https://github.com/abdelbasset1985/ProfilAbdelbasset
-/blob/output/github-contribution-grid-snake.svg)
+
+![Snake Animation](https://github.com/abdelbasset1985/abdelbasset1985/blob/output/github-contribution-grid-snake.svg)
